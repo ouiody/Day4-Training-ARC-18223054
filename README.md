@@ -1,6 +1,6 @@
 # Day4-Training-ARC-18223054
 
-# Network Configuration untuk Cisco Packet Tracer
+## Network Configuration untuk Cisco Packet Tracer
 
 ### 1. Router (RTA)
 ```bash
